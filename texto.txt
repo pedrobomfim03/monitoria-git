@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Autor: Pedro e Nati
+=======
+Autor: Pedro
+>>>>>>> parent of 43446b8 (mudança de autor)
 
 Projeto: prova
